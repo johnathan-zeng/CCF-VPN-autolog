@@ -1,0 +1,6 @@
+connect vpn.case.edu  
+
+
+PASSWORD  
+push  
+y
